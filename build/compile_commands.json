@@ -1,0 +1,8 @@
+[
+  {
+    "directory":"E:/Learn/ui/LearnOpenGL/build",
+    "command": "C:/dev/msys64/clang64/bin/clangd.exe -IC:/dev/vcpkg/installed/x86-windows/include -c -o file.o file.cc",
+    "file":"../ch01_helloglfw3/main.cc"
+  }
+
+]
