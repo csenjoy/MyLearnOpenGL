@@ -1,0 +1,5 @@
+project(TriangleExercises)
+
+add_subdirectory(Draw2TriangleNextToEachOther)
+add_subdirectory(Draw2TriangleUseDifferentVAOVBO)
+add_subdirectory(Draw2TriangleUseDifferentFragmentShader)
