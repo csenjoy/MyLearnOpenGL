@@ -1,0 +1,6 @@
+project(helloshaders)
+
+add_subdirectory(00UniformInFragmentShader)
+add_subdirectory(01MoreAttributesInVertices)
+add_subdirectory(02OurOwnShaderClass)
+add_subdirectory(03ShadersExercises)

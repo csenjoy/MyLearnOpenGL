@@ -1,4 +1,4 @@
-project(hellotriangle)
+project(outpositionasfragmentcolor)
 
 find_package(glfw3 CONFIG REQUIRED)
 
@@ -14,5 +14,3 @@ target_link_libraries(${PROJECT_NAME}
   PRIVATE glfw
   PRIVATE glad::glad
 )
-
-add_subdirectory(TriangleExercises)

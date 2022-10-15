@@ -1,5 +1,5 @@
 project(ch01_GettingStart)
 
-add_subdirectory(HelloWindow)
-add_subdirectory(HelloTriangle)
-add_subdirectory(HelloRectangle)
+add_subdirectory(00HelloWindow)
+add_subdirectory(01HelloTriangle)
+add_subdirectory(02HelloShaders)
